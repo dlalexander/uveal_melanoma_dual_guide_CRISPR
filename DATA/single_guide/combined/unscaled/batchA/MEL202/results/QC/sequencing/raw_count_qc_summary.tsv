@@ -1,0 +1,5 @@
+sample	total_counts	total_sgrnas	zero_sgrnas	pct_zero_sgrnas	low_sgrnas	pct_low_sgrnas	gini_index
+control_mean	3309583.6496989	8592	0	0	1	0.01	0.04
+Mel202.D28A	4184322.61249561	8592	0	0	383	4.46	0.09
+Mel202.D28B	4157037.20291969	8592	0	0	311	3.62	0.08
+Mel202.D28C	4143707.64161199	8592	0	0	298	3.47	0.08

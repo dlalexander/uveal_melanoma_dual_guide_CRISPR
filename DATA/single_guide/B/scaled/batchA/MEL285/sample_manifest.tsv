@@ -1,0 +1,8 @@
+filename	stripped_sample_label	plasmid	control	treatment	qc_group	replicate	sample_label
+sample_counts.tsv	Mel285.D28A	0	0	1	Mel285 D28	R1	Mel285 D28A
+sample_counts.tsv	Mel285.D28B	0	0	1	Mel285 D28	R2	Mel285 D28B
+sample_counts.tsv	Mel285.D28C	0	0	1	Mel285 D28	R3	Mel285 D28C
+sample_counts.tsv	Mel285.D49A	0	0	1	Mel285 D49	R1	Mel285 D49A
+sample_counts.tsv	Mel285.D49B	0	0	1	Mel285 D49	R2	Mel285 D49B
+sample_counts.tsv	Mel285.D49C	0	0	1	Mel285 D49	R3	Mel285 D49C
+sample_counts.tsv	control_mean	0	1	0	control	R1	control_mean

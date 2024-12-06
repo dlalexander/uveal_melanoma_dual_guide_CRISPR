@@ -1,0 +1,18 @@
+INFO [2023-03-06 11:51:19] [[1]]
+INFO [2023-03-06 11:51:19] nonessentials
+INFO [2023-03-06 11:51:19] 
+INFO [2023-03-06 11:51:19] $fontfamily
+INFO [2023-03-06 11:51:19] [1] "sans"
+INFO [2023-03-06 11:51:19] 
+INFO [2023-03-06 11:51:19] $cat.fontfamily
+INFO [2023-03-06 11:51:19] [1] "sans"
+INFO [2023-03-06 11:51:19] 
+INFO [2023-03-06 11:51:19] $fill
+INFO [2023-03-06 11:51:19] brewer.pal(n = 4, name = "Set1")
+INFO [2023-03-06 11:51:19] 
+INFO [2023-03-06 11:51:19] $cat.pos
+INFO [2023-03-06 11:51:19] c(0, 0, 0, -0.1)
+INFO [2023-03-06 11:51:19] 
+INFO [2023-03-06 11:51:19] $filename
+INFO [2023-03-06 11:51:19] [1] "/lustre/scratch126/casm/team113da/users/da15/UM_DGCRISPR_synthetic_lethality_Jen_5429_4453/DATA/QC/nonessentials/nonessentials_overlap.png"
+INFO [2023-03-06 11:51:19] 

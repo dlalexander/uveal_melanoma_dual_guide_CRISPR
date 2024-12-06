@@ -1,0 +1,8 @@
+filename	stripped_sample_label	plasmid	control	treatment	qc_group	replicate	sample_label
+sample_counts.tsv	MP46.D28A	0	0	1	MP46 D28	R1	MP46 D28A
+sample_counts.tsv	MP46.D28B	0	0	1	MP46 D28	R2	MP46 D28B
+sample_counts.tsv	MP46.D28C	0	0	1	MP46 D28	R3	MP46 D28C
+sample_counts.tsv	MP46.D64A	0	0	1	MP46 D64	R1	MP46 D64A
+sample_counts.tsv	MP46.D64B	0	0	1	MP46 D64	R2	MP46 D64B
+sample_counts.tsv	MP46.D64C	0	0	1	MP46 D64	R3	MP46 D64C
+sample_counts.tsv	control_mean	0	1	0	control	R1	control_mean
