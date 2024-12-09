@@ -4,6 +4,7 @@ DATA/pyCROQUET/CRAMS
 DATA/pyCROQUET
 *.query_class.tsv.gz
 *.counts.tsv.gz
+*.bf
 DATA/RDS/*
 LOGS/*
 *pred_vs_obs_y12.tsv
