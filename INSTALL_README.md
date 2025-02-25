@@ -31,5 +31,3 @@ Analyses were run using [R version 4.2.3](https://cran.r-project.org/) with the 
 * tidyverse
 * vroom
 * optparse
-
-Details of the R dependencies for this project are detailed within the project `renv.lock` file.
