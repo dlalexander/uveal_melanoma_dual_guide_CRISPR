@@ -1,8 +1,6 @@
-# Installation
+# Installation and dependencies
 
 Details of software dependencies, installation instructions and system requirements are specified below.
-
-## Software dependencies
 
 ### System requirements
 
