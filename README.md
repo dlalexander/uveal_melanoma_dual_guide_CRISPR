@@ -36,6 +36,10 @@ Cell lines were transduced in technical triplicate at a MOI of 0.3, puromycin se
 
 Analysis pipeline is adapted from a pipeline written by [Victoria Offord](https://github.com/vaofford) for the Adams Group at the Sanger Institue [Team 113 Github](https://github.com/team113sanger), available [here](https://github.com/team113sanger/harle_dgCRISPR_paralogs).
 
+## Installation and dependencies
+
+For installation instructions, system and package dependencies see [INSTALL_README.md](https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR/blob/master/INSTALL_README.md)
+
 ## Repository
 For almost all steps, the `REPO_PATH` variable will need to be set. This will depend on where you have cloned the repository.
 
