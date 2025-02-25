@@ -5,6 +5,7 @@ Details of software dependencies, installation instructions and system requireme
 ### System requirements
 
 Analysis stages described in [README.md](https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR/blob/master/README.md) were run on a high-performance computing (HPC) cluster running Ubuntu 20.04 (Focal Fossa) Linux using Nextflow version 21.04.3. Run time for this stage can be completed in half a day.
+
 [Downstream analyses and plotting](https://github.com/dlalexander/uveal_melanoma_dual_guide_CRISPR/tree/master/SCRIPTS/plotting) can be performed on a local R installation, with library dependencies specified below. Run time for this stage can be completed in 1 hour. 
 
 ### C-SAR
